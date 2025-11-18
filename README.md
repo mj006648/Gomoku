@@ -1,6 +1,6 @@
 
 
-# **Project: Socket Programming - Gomoku **
+# Project: Socket Programming - Gomoku
 
 ## **1. Overview**
 
